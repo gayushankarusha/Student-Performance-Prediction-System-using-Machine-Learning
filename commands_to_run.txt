@@ -1,0 +1,32 @@
+#TO RUN NOTEBOOK FILE 
+
+1. OPEN TERMINAL(window+R) and enter cmd
+
+2. enter command(ONLY IF U DONT HAVE JUPYTER NOTEBOOK)
+
+python -m notebook
+
+3. Run code in notebook 
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+#TO RUN DASHBOARD FILE
+
+1. RUN CODE IN VS-CODE AND SAVE FILE
+
+2. SELECT OPEN IN TERMINAL AND ENTER THIS COMMAND IN TERMINAL 
+
+
+        python -m streamlit run Dashboard_for_student_performance.py (# Dashboard_for_student_performance.py is file name)
+
+3.THEN HTTPS PAGE WILL OPEN 
+
+4. CLICK ON PREDICT 
+
+5. ENTER USERNAME AND PASSWORD THEN REGISTER AND LOGIN 
+
+6. ENTER STUDENT ID NUMBER (IF STUDENT ID PRESENT ITS PRINT THE OUTPUT, GRAPHS, AND RISK-LIST STUDENTS 
+
+7. IF NEW STUDENT ID NUMBER(ENTER DETAILS OF STUDENT AND PREDICT OUTPUT)
+-------------------------------------------------------------------------------------------------------------------------------
