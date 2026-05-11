@@ -1,0 +1,34 @@
+Python libraries 
+
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+matplotlib==3.8.4
+seaborn==0.13.2
+streamlit==1.33.0
+fpdf==1.7.2
+
+-------------------------------------------------------------------------------
+
+pandas → For dataset handling and CSV operations.
+
+numpy → Numerical computations and array support.
+
+scikit-learn → ML models (Logistic Regression, Decision Tree, Naive Bayes, SVM).
+
+matplotlib → Graph plotting.
+
+seaborn → Enhanced statistical visualizations.
+
+streamlit → Dashboard interface.
+
+fpdf → PDF report generation.
+
+-----------------------------------------------------------------------------------
+
+
+bash ^
+
+pip install -r requirements.txt
+
+-----------------------------------------------------------------------------------
